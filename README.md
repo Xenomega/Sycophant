@@ -66,5 +66,5 @@ Contributors
 
 Copyright and License
 ----
-Copyright 2017 Adam Anderson, David Pokora, and Hellen TsimOgiannh
+Copyright 2017 Adam Anderson, David Pokora, and Hellen TsimOgiannh  
 Released under the MIT License, see [here](./LICENSE)
