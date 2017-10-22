@@ -53,16 +53,16 @@ Though there may be a few more minor things to add, this list covers the notable
 Authors
 ------
 **Adam Anderson**:
-[Github](https://github.com/EchoArray)
-[Unity Connect](https://connect.unity.com/u/5824e52132b30600209ac207)
+* [Github](https://github.com/EchoArray)
+* [Unity Connect](https://connect.unity.com/u/5824e52132b30600209ac207)
 
 **David Pokora**:
-[Github](https://github.com/Xenomega)
+* [Github](https://github.com/Xenomega)
 
 Contributors
 -----
 **Hellen TsimOgiannh**: A large portion of ninja character artwork.
-[Unity Connect](https://connect.unity.com/u/58e4d3df32b306001c7a812c)
+* [Unity Connect](https://connect.unity.com/u/58e4d3df32b306001c7a812c)
 
 Copyright and License
 ----
