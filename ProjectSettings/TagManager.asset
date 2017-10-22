@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bubble_effect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Biped
+  - Projectile
+  - Machine
+  - SubmergableNode
+  - ParticleBlocker
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Machine
+    uniqueID: 3747937439
+    locked: 0
+  - name: Water
+    uniqueID: 2189679597
+    locked: 0
+  - name: Geometry
+    uniqueID: 1494087065
+    locked: 0

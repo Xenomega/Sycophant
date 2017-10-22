@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ca3b5727b9546114cbe02bab9229c105
+timeCreated: 1503187990
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Slackey
+  fontNames:
+  - Slackey
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

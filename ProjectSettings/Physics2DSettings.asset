@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!19 &1
+Physics2DSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 3
+  m_Gravity: {x: 0, y: -20}
+  m_DefaultMaterial: {fileID: 6200000, guid: a615be05c030b0d4184388c1a5b786cd, type: 2}
+  m_VelocityIterations: 500
+  m_PositionIterations: 1000
+  m_VelocityThreshold: 1
+  m_MaxLinearCorrection: 0.01
+  m_MaxAngularCorrection: 0.0001
+  m_MaxTranslationSpeed: 1
+  m_MaxRotationSpeed: 360
+  m_BaumgarteScale: 0.2
+  m_BaumgarteTimeOfImpactScale: 0.75
+  m_TimeToSleep: 1
+  m_LinearSleepTolerance: 1
+  m_AngularSleepTolerance: 2
+  m_DefaultContactOffset: 0.01
+  m_AutoSimulation: 1
+  m_QueriesHitTriggers: 0
+  m_QueriesStartInColliders: 1
+  m_ChangeStopsCallbacks: 0
+  m_CallbacksOnDisable: 1
+  m_AutoSyncTransforms: 1
+  m_AlwaysShowColliders: 0
+  m_ShowColliderSleep: 1
+  m_ShowColliderContacts: 1
+  m_ShowColliderAABB: 1
+  m_ContactArrowScale: 0.324
+  m_ColliderAwakeColor: {r: 0.5686275, g: 0.95686275, b: 0.54509807, a: 0.7529412}
+  m_ColliderAsleepColor: {r: 0.5686275, g: 0.95686275, b: 0.54509807, a: 0.36078432}
+  m_ColliderContactColor: {r: 1, g: 0, b: 1, a: 1}
+  m_ColliderAABBColor: {r: 1, g: 1, b: 0, a: 0.2509804}
+  m_LayerCollisionMatrix: ffe7ff7fffe7ff7fffe7ff7fffffffffffefff7fffe7ff7fffffffffffffffffffe7ff7fffc1ff7fffe5ff7fd8e0ff7fc8e0ff7ffffdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffc8e0ffff
